@@ -2,7 +2,7 @@
 
 Userdata decryption does not work.
 
-Incorrect display of battery charge. Always 100%.
+The battery charge indicator is always 100%.
 
 ```
 #
